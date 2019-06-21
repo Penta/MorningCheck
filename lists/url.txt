@@ -1,0 +1,12 @@
+# URL monitored list
+#
+# You can change the expected return code of the next line by doing :<HTTP_STATUS_CODE>
+
+:200
+http://localhost/
+
+:204
+https://mywebserver.example.local/website/
+
+:000
+http://notworking/

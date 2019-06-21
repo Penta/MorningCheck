@@ -1,0 +1,6 @@
+# List of monitored services (systemd)
+#
+# Syntax: machine:service1,service2,etc...
+
+localhost:ssh
+mywebserver.example.local:myservice1,myservice2

@@ -1,0 +1,4 @@
+# list of machines for the disk, memory and uptime checks.
+
+localhost
+mywebserver.example.local
